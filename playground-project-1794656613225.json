@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "html": "\n<html>\n  <header style=\"background-color:brown; height: 110px\">\n    <h1 style=\"color:#ffffff; font-size: 50px\"> \n      <img src=\"assets/images (4).png\" style=\"height: 100px\"> \n      Новый год без подарков </h1>\n  </header>\n  \n  <main>\n    <h1 style=\"font-size: 70px\"> Гринч похититель Рождества </h1>\n    <img src=\"assets/images (9).jpg\" style=\"height: 800px\"> \n    <p style=\"font-size: 40px\"> Обиженный мохнатый сосед задумал оставить горожан без праздника. Рождественская анимация с рекордными сборами </p>\n  </main>\n  \n  <footer>\n    <button> Смотреть </button>\n  </footer>\n  \n</html>\n\n",
+  "css": "",
+  "js": "",
+  "exportedAt": "2026-11-14T11:43:33.225Z"
+}
