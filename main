@@ -1,0 +1,18 @@
+<html>
+  <header style="background-color:brown; height: 110px">
+    <h1 style="color:#ffffff; font-size: 50px"> 
+      <img src="assets/images (4).png" style="height: 100px"> 
+      Новый год без подарков </h1>
+  </header>
+  
+  <main>
+    <h1 style="font-size: 70px"> Гринч похититель Рождества </h1>
+    <img src="assets/images (9).jpg" style="height: 800px"> 
+    <p style="font-size: 40px"> Обиженный мохнатый сосед задумал оставить горожан без праздника. Рождественская анимация с рекордными сборами </p>
+  </main>
+  
+  <footer>
+    <button> Смотреть </button>
+  </footer>
+  
+</html>
